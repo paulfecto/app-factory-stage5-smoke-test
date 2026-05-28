@@ -14,6 +14,6 @@ Crawler-readable discovery:
 - Feed: https://refrigerator-liverpool-jacket-ftp.trycloudflare.com/feed.xml
 - LLM summary: https://refrigerator-liverpool-jacket-ftp.trycloudflare.com/llms.txt
 
-This repository is owned-content distribution evidence only. Repository views, stars, forks, owner activity, and publish events are not demand evidence.
+This repository is owned-content distribution evidence only. Repository views, stars, forks, or owner activity are not demand evidence.
 
 Run id: `36210abd-055d-4cef-8f5e-d1cd8337d148`
